@@ -1,0 +1,5 @@
+interface:
+  display_name: "VS Code Markdown Math"
+  short_description: "规范、检查并修复 VS Code Markdown 数学公式"
+  default_prompt: "Use $vscode-markdown-math to review and fix the math formulas in this Markdown document."
+
